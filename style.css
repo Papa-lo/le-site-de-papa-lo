@@ -1,4 +1,18 @@
 /*en chantier*/
 h1 {
-    color: blue;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+}
+.conten1 {
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.bouton {
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
